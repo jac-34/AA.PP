@@ -15,9 +15,6 @@ int main() {
 
   printf("\nx1 = %i\n", x1);
 
-
-
-
   int x2 = 0;
   int n = 10;
   int* array = (int*) calloc(n, sizeof(int));
